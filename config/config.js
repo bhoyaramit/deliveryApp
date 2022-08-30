@@ -4,8 +4,8 @@ const config = {
     emailUser:'EMAIL_USERNAME',
     emailPassword:'EMAIL_PASSWORD'
 
-    // emailUser:'bhoyaramit9404@gmail.com',
-    // emailPassword:'amitniki'
+    // emailUser:'bhoyaramit94046987@gmail.com',
+    // emailPassword:'£'
 
 }
 
